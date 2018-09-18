@@ -1,0 +1,23 @@
+{
+  "name": "appinstances",
+  "version": "1.0.0",
+  "description": "adding typeahead to the appinstances",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-ajax": "^3.3.1",
+    "jasmine-core": "^2.3.4",
+    "jasmine-jquery": "^2.1.1",
+    "jquery-mockjax": "^2.2.2",
+    "karma": "^0.13.9",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-jasmine-ajax": "^0.1.13",
+    "karma-jasmine-jquery": "^0.1.1",
+    "karma-phantomjs-launcher": "^0.2.1"
+  }
+}
